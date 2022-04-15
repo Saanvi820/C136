@@ -1,0 +1,22 @@
+body {
+    background-position: center;
+    background-size: cover;
+    font-family: 'Rouge Script', cursive;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: black;
+}
+.heading {
+    font-size: 35px;
+    width: 100%;
+    margin: 0px;
+}
+#objectname{
+    font-size: 23px;
+}
+canvas {
+    border: 2px solid rgb(0, 0, 0);
+    border-radius: 10px;
+    margin-top: 130px;
+    box-shadow: 5px 5px 5px black;
+}
